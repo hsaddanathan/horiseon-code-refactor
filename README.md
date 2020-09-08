@@ -28,7 +28,8 @@ Lines 54, 61, 68 - Added Alt tags to images for SEO and Accessibility. Added a c
  
  Lines (74-79) - Changed Div to Footer tag. 
 
- ## style.css Changes
+```
+## style.css Changes
 
 
 
