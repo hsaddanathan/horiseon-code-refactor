@@ -8,12 +8,20 @@ In addition, when parsing through the code, Alt tags were not included on images
 
 With regards to classes assigned to different elements, there was a lot of redundancy with the classification of elements. I was able to consolidate classes, which in turn, cleaned up the amount of CSS needed.
 
+## Screenshots
+![Home Page update] (/assets/images/Home-Page-Part-1)
+
+
+
+
+
+
 ## Links
 
 horiseon-code-refactor repository link: 
     https://github.com/hsaddanathan/horiseon-code-refactor.git
 
-Github URL:
+Github Deployed Site URL:
     https://hsaddanathan.github.io/horiseon-code-refactor/
 
 
