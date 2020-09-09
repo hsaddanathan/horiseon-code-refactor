@@ -8,12 +8,11 @@ In addition, when parsing through the code, Alt tags were not included on images
 
 With regards to classes assigned to different elements, there was a lot of redundancy with the classification of elements. I was able to consolidate classes, which in turn, cleaned up the amount of CSS needed.
 
-## Screenshots
+## Deployed Site Images
 
 ![Home Page Header](assets/images/Header.jpg)
 ![Home Page Section and Aside](assets/images/SectionAside.jpg)
 ![Home Page Footer](assets/images/Footer.jpg)
-
 
 
 ## Links
