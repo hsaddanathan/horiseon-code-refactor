@@ -12,7 +12,7 @@ With regards to classes assigned to different elements, there was a lot of redun
 
 ```
 
-![Home Page Header](/assets/images/Home-Page-Part-1.png)
+![Home Page Header](/assets/images/Header.jpg)
 
 ```
 
