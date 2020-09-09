@@ -8,10 +8,17 @@ In addition, when parsing through the code, Alt tags were not included on images
 
 With regards to classes assigned to different elements, there was a lot of redundancy with the classification of elements. I was able to consolidate classes, which in turn, cleaned up the amount of CSS needed.
 
-##
+## Links
+
+horiseon-code-refactor repository link: 
+    https://github.com/hsaddanathan/horiseon-code-refactor.git
+
+Github URL:
+    https://hsaddanathan.github.io/horiseon-code-refactor/
+
+
 ## index.html Changes
 
-```
 Lines (11-26) - Changed Div to Header tag. 
 Lines (13-25) - Changed Div to Nav tag.
 
@@ -29,10 +36,9 @@ Lines 54, 61, 68 - Added Alt tags to images for SEO and Accessibility. Added a c
  
 Lines (74-79) - Changed Div to Footer tag. 
 
-```
+
 ## style.css Changes
 
-```
 Line 11 - When I changed the Div tag to a header tag, I was able to delete the "header" class. So I changed this to the header element.
 Line 18 - Removed .header class and just targeted H1 Element
 Line 23 - Removed .header class and targeted .seo class
@@ -47,7 +53,7 @@ Lines (137-189) - References the Content Section.
     -Each of the 3 classes referenced here represent each of the services Horiseon provides. I changed each class to the ".content-services" class. 
     -For the images for these sections, they were already classified under ".float-left" and ".float-right", so I moved the height styling to the float classes.
     -For the H2 elements, I reclassified as ".services-header" 
-Lines 191 - Removed the ".footer" class once I used the footer tag. Changed ".footer" to "footer"
+Lines 191, 198 - Removed the ".footer" class once I used the footer tag. Changed ".footer" to "footer"
 
 I reordered CSS declarations based on the the flow of the website. 
     -Header/Nav Bar
@@ -56,6 +62,5 @@ I reordered CSS declarations based on the the flow of the website.
     -Benefits Aside
     -Footer
  
- ```
 
  
