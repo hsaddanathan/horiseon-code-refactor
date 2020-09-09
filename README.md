@@ -11,8 +11,9 @@ With regards to classes assigned to different elements, there was a lot of redun
 ## Screenshots
 
 ```
-
-![Home Page Header](/assets/images/Header.jpg)
+![Home Page Header](assets/images/Header.jpg)
+![Home Page Section and Aside](assets/images/SectionAside.jpg)
+![Home Page Footer](assets/images/Footer.jpg)
 
 ```
 
