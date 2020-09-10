@@ -8,6 +8,28 @@ In addition, when parsing through the code, Alt tags were not included on images
 
 With regards to classes assigned to different elements, there was a lot of redundancy with the classification of elements. I was able to consolidate classes, which in turn, cleaned up the amount of CSS needed.
 
+## Instruction
+
+Navigate to the following Github repository:
+    https://github.com/hsaddanathan/horiseon-code-refactor.git
+
+Across the top of the page, click on the Fork button on the right.
+
+Once you have done this, you will see the repo copied within your Github account
+
+Click the Green "Code" Button, and copy repo link. 
+
+Open Terminal and run "git clone (Paste Link Here)"
+
+Once repo has been cloned, you can run " code ." to open in Visual Studio Code. 
+
+From there, right click and select "Open in Default Browser" to preview the page, or you can inspect the code from Visual Studio Code.
+
+Alternatively, if you would like to only view the page please reference:
+    https://hsaddanathan.github.io/horiseon-code-refactor/
+
+
+
 ## Deployed Site Images
 
 ![Home Page Header](assets/images/Header.jpg)
